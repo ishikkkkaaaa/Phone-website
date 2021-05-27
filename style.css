@@ -5,7 +5,8 @@
 }
 
 .main {
-  background: url("https://lh3.googleusercontent.com/proxy/pR2KaePOkd3efB4IvTXGekEUAUOD_ogxPTI-HQhRi5-Xlm8YYuSVQUdqly-1eF-vyxEt1M8m87jpyUC4EoP1jWq_QrQ6dX7hWYbl7D5RAN0mhWuKyqkrQYJWxCT83Q");
+  /*background: url("https://lh3.googleusercontent.com/proxy/pR2KaePOkd3efB4IvTXGekEUAUOD_ogxPTI-HQhRi5-Xlm8YYuSVQUdqly-1eF-vyxEt1M8m87jpyUC4EoP1jWq_QrQ6dX7hWYbl7D5RAN0mhWuKyqkrQYJWxCT83Q");*/
+  background-color : black;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
